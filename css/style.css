@@ -1,0 +1,36 @@
+* body{
+    background-color: #212529;
+    margin: 0;
+    padding: 0;
+    
+}
+
+button.carousel-control-next {
+    background-color: #393d42;
+}
+
+button.carousel-control-prev {
+    background-color: #393d42;
+}
+
+.card-group{
+    padding: 10px 0px 20px 0px;
+    
+}
+.card img {
+    max-width: fit-content;
+}
+.card{
+    background-color: #393d42;
+    margin: 1rem;
+}
+
+
+p.card-text {
+    color: #ffffff;
+}
+
+h5.card-title {
+    color: #ffffff;
+    text-align: center;
+}
